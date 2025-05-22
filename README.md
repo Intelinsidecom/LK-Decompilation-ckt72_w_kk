@@ -1,7 +1,9 @@
 # LK-Decompilation-ckt72_w_kk
  Little kernel decompiliation attempt for Doro Liberto 820 Mini.
 
+STATUS: Not booting, i do not know why because i do not have UART debug cable now.
 
+All of this code is Mediatek Inc. Property.
 
 Tutorial on how to set it up:
 
@@ -10,7 +12,7 @@ Tutorial on how to set it up:
 
 If it does not have permissions to execute give the file to do it, if you get errors in kernel building process give permissions for every folder and file in the folder or just execute GrantPerms.sh script with sudo
 
-if it says "ld" is missing just install binutils and if "gcc" is missing or whatewer just install gcc
+if it says "ld" is missing just install binutils and if "gcc" is missing just install gcc
 
    Ubuntu example:
 

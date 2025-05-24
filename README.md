@@ -1,7 +1,7 @@
-# LK-Decompilation-ckt72_w_kk
- Little kernel decompiliation attempt for Doro Liberto 820 Mini.
+# Modded-LK-ckt72_w_kk
+ Little kernel modification attempt for Doro Liberto 820 Mini.
 
-STATUS: Not booting, i do not know why because i do not have UART debug cable now.
+STATUS: Not booting to android and showing logo but fastboot seems to work, maybe other things work too, needs more testing.
 
 All of this code is Mediatek Inc. Property.
 
